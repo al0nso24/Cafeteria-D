@@ -27,5 +27,6 @@
 </ol>
 <br>
 <p><b>Las clases y todos los componentes del proyecto están en el repositorio, también está todo el proyecto comprimido en un archivo .zip para descargarlo más fácil.</b></p>
+<p><b>Las imágenes de la pantallita también se encuentran como Cafetería_captura1.png y Cafetería_captura1.png</b></p>
 <br>
 <p><b>Alonso Zegarra Velásquez</b></p>
