@@ -20,7 +20,7 @@
   <li>Escoger el tipo de café.</li>
   <li>Elegir que ingredientes extra ponerle al café (esto le sube el precio al pedido).</li>
   <li>Darle al botón <b>Agregar pedido.</b></li>
-  <li>Moverse a la pestaña <b>Lsita de pedidos.</b></li>
+  <li>Moverse a la pestaña <b>Lista de pedidos.</b></li>
   <li>Darle al botón <b>Preparar café</b>, esto hará que salga un texto notificando el proceso del café.</li>
   <li>Darle al botón <b>Listo.</b></li>
   <li>Finalmente darle al botón <b>Mostrar</b>, en la tabla se mostrarán la lista de todos los pedidos y también el dinero acumulado de ellos.</li>
