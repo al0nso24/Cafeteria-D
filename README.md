@@ -14,7 +14,6 @@
 <p><b>Lenguaje usado:</b></p>
 <p>Java</p>
 <br>
-<p>----------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p><b>Cómo usarla?</b></p>
 <ol>
   <li>Colocar un número de pedido.</li>
@@ -26,7 +25,6 @@
   <li>Darle al botón <b>Listo.</b></li>
   <li>Finalmente darle al botón <b>Mostrar</b>, en la tabla se mostrarán la lista de todos los pedidos y también el dinero acumulado de ellos.</li>
 </ol>
-<p>----------------------------------------------------------------------------------------------------------------------------------------------</p>
 <br>
 <p><b>Las clases y todos los componentes del proyecto están en el repositorio, también está todo el proyecto comprimido en un archivo .zip para descargarlo más fácil.</b></p>
 <br>
